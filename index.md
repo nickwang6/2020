@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+                                                                       懵懵懂懂
+  Change is hard at first, messy in the middle of and gorgeous in the end.
+	过去的一年可以分为三阶段。第一阶段为知识吸收（小年至立夏），第二阶段为社会阅历（小暑至处暑），第三阶段为活动积淀（秋分至元旦）。
+	曾经我以为现在的自己是过去的结果，其实现在的自己并不完全由过去决定，自己内心的懦弱造就一副不肯改变的模样。
+  
+                                                                       知识
+	第一阶段过去了很长的一段时间，这个阶段虽然很孤独，但是在知识方面索取是令自己满意，而且状态较好。
 
-You can use the [editor on GitHub](https://github.com/nickwang6/2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+	存在问题，这期间虽然静心学习了，同时也优化了方法，笔记+日周总结，但是自己并没有在其方面的着力点，也就是产出，技能是熟能生巧，不用自然陌生，现在让我再去熟练去操作，的确有些小困难。解决方法，尝试如何去分享这门课程，也就是如何去备好这门课程。其二，在这过程中学的杂，一门没精通，就转向另一门，找到其可以结合点，而不是漫无目的的生长。
+ 
+  测试最重要还是在测试思维上，其它的学习就是工具的学习，当测试的思维打开了，工具的使用不成问题，所有在学校现有专业教学存在很大的问题，测试思维不成，工具课授再熟练只是皮毛而已。
+	第一阶段，有一周关于软件测试的分享课，虽然分享的内容不是原创，但是这样方法比一般的方法更为有效，这个方法还是可以推荐多用，软件这行业，更新快，学校所学习的较为滞后，一定程度上脱节，也就是说在毕业之际，大概率还得培训再就业，所有最为重要的是学会学习，有自己的一套可行的学习方法。
+                                                                       身体
+	有人告诉我喜欢足球是一种本能。要是街上有个足球向你滚来，你会下意识给它一脚，就像恋爱的时候一样，因为你不知道如何躲开它。
+	2019年10月开始接触足球，到现在已经有一年多了，足球这项运动，团队配合进球将是一件多么刺激的事情。过去一年的时间里，在足球训练有个过山车，开始到中途都是坚持的，第一阶段在家里也是基本的训练，训练一些基础的动作，有一点挺遗憾的，没能参加比赛，因为那段阶段考勤没去，负责分院学生会事务，虽然足球技术不咋滴，连个替补也混不上。在足球方面，技术还是没到位，训练的方法并不是最优的，不得不说连脚踝锁死都没做到，还有就是传球配合还是有待提高，足球我还是会照样踢，比不比赛不重要，重要的是最开始那份热爱，接下来优化自己的训练方法。
+ 
+	除了你的知识别人拿不走以外，还有就是你的身体，在过去的一年里零器械健身也是一个漫长的过程，在过年到开春那阶段，基本没有健身，主要还没长肉，对于偏瘦体制的我来说，希望能长点肉，在开春之际，两个月内逐步恢复了原有的形态，零器械健身是有些难度的，一不能速成，二变换很慢，今年去年变换不大，照片看起来还是那样，不得不说得有个小规划了，加大训练量。人生苦短，唯有性感。
+	为了平衡身体，提高身体的柔韧性，在年末接触了瑜伽，瑜伽的接触，希望可以平衡自己的身体，追寻综合美，练瑜伽这过程是不简单的，一开始最基础热身就足够捏把汗了，身体不灵活有一点就是，强烈的运动后，身体并没有放松到位，希望瑜伽能带来点‘化学反应’。
+                                                                      人际
+	第二阶段、第三阶段即是人际方面的拓展。在第二阶段方面，开始着手海投了简历，也去面试了一份专业的工作，遗憾的时间短，自己被否了，不得不再次进入工厂为生活费着想，在工厂这期间，有一点打开了自己，即可以和不同年龄段的人聊天，相比于过去，还是一个不爱怎么和年龄段相远的人聊天，其次也简单的分析了这个工厂的利弊，有幸也和老板聊了次天，谈谈了大学期间的事情，不过有点我做到不是特别好，还不是很果断去做一件事情，尤其某方面的交流。
+	第三阶段则是举办活动的沉淀，从2020新生接待开始到1024程序员日颁奖典礼再到分院红色故事会比赛结束，这过程虽然消耗不少时间，但是举办活动大大不一样，但是有一点我很明白，时光会把你雕刻你想成为的样子，同时也会消磨你的激情，在后期我的确没有那份最开始的激情了，我不知道我做的目的是什么，我要活得的是什么，因为一个人做没有意义，和当初的我想获得的迥然不同，至于什么荣誉，优秀的头衔我并不在乎，我不需要证明我自己有多优秀，因为自己最清楚自己的实力。
+                                                                       挑战
+去年。
+挑战一失败了，遗憾的是做过的编程题就直接送走了，无疑暴露出一个问题，时间拖的太久。第二，不是思路解题，而是答案解题。
+挑战二成功了，有幸的成为了分管组织策划部的主席团成员之一。其中一个月展开培训（一周两次），这个还是部长培训的，我只带过两次线下和三次线上的培训，主要要是侧重于活动的展开和活动的总结。我不得不承认在玩这方面，我带不起，也就是这方面我失败了。还有一方面就是职外的事情，即git代码管理和部署站点我也没进行，因为不同专业，成员也提不上兴趣。
+挑战三还在进行中，不过面对失败的可能性大，大学不仅仅是就业的跳板，我还没有找到真正所热爱的东西。
+今年。
+挑战一。系统化分享软件测试相关，并集结自己的小团队。
+挑战二。拿下2021上半年四级英语考试。
+挑战三。2021.2.27做出继续深造和择业的选择。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nickwang6/2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
